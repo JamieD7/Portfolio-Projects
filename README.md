@@ -1,2 +1,2 @@
 # Portfolio-Projects
-A broad portfolio showcasing my practical applications of cybersecurity principles.  Exploring projects in python automation, securiy audits, vulnerability assessment, and controls and compliance all developed through Google Cyber Security Certificate program. 
+This repository is dedicated to using Python for automation to create an algorithm.  The program checks IP addresses and accpets them if they are allowed access, and removed if not.  (Project was done through Google Cybersecurity Certificate Lab)
